@@ -53,7 +53,6 @@ In order to login as a test user, use credentials: Username : `testwarden` Passw
 This is how the dashboard looks like:
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/75029064/172355338-174e049d-dae3-4a7e-ac85-3b89f9c328c1.png">
-<img width="959" alt="image" src="https://user-images.githubusercontent.com/75029064/172355542-346ac36c-d490-442f-9a12-ac6f7a1f23f3.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/75029064/172355645-7bfe855a-4bce-4566-b2a9-c9177a2b3fc2.png">
 
 
@@ -68,7 +67,6 @@ Test user credentials, Username : `testguard` Password : `14631528`
 <img width="191" alt="image" src="https://user-images.githubusercontent.com/75029064/172356178-13f2eb0f-3917-41ab-9b8a-c267e34cf1be.png">
 <img width="227" alt="image" src="https://user-images.githubusercontent.com/75029064/172356355-fcb457a4-f125-4604-8dbe-bda0ac843713.png">
 <img width="226" alt="image" src="https://user-images.githubusercontent.com/75029064/172356434-9d2f0437-8729-4859-80cc-77069396b8bb.png">
-<img width="218" alt="image" src="https://user-images.githubusercontent.com/75029064/172356505-acce1539-b53c-46dd-b191-551aa7d1e481.png">
 </p>
 
 
