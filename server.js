@@ -10,8 +10,6 @@ var nodemailer = require('nodemailer');
 var sms = require('fast-two-sms')
 require('dotenv').config();
 
-
-
 // Local Time
 
 function calcTime() {
